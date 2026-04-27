@@ -6,3 +6,6 @@ h1 {
     font-size: 100px;
     text-shadow: 3px 7px 8px violet;
 }
+p:nth-child(odd){
+    color: rgb(80, 39, 138);
+}
